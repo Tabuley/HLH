@@ -1,0 +1,13 @@
+FROM:,"06-03-2015 00:00:00",TO:,"06-03-2015 23:59:59",CASH
+"Billed Date","Admission date",Patient/ID,"Birth Date","File NR",Membership_NR,Form_NR,,Description,Category,"No.Of Items",Price
+6-03-2015,5-03-2015,"petro pakomi",1-07-1985,175927,,,VM0009,"Albendazole Suspension 1000 ml",drug_list,2,12000
+6-03-2015,5-03-2015,"petro pakomi",1-07-1985,175927,,,F711202,"Albendazole suspension",drug_list,3,2115.3846
+6-03-2015,5-03-2015,"petro pakomi",1-07-1985,175927,,,F721323,"Activated charcoal tabs",drug_list,2,242.7272
+"PATIENT DEPOSIT"
+6-03-2015,5-03-2015,"petro pakomi",1-07-1985,175927,,,N/A,Deposit,Deposit,1,30000
+6-03-2015,6-03-2015,"PAGA PAGA",1-07-1981,175931,,,N/A,Deposit,Deposit,1,50000
+6-03-2015,6-03-2015,"PAGA PAGA",1-07-1981,175931,,,N/A,Refund,Refund,1,-47000
+"GRAND TOTAL:",,,,,,,,,,47358.1118
+,SUMMARY:,FROM:,"06-03-2015 00:00:00",TO:,"06-03-2015 23:59:59",CASH,
+Lab,Drugs,Radio,Dental,Eye,Min.Proc,Major.proc,"Consult and services",Supplies.,"Laboratory Supplies",Deposit,Total
+,14358.1118,,,,,,,,,33000,47358.1118
